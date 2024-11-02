@@ -1,0 +1,14 @@
+ <!-- <div>
+        {
+          //abb hame kab dikhana hai remove wala button and add wala button ? --> agar woh slice wala cart array mein  hai to remove button dikhana hai otherwise ulta hoga
+          <!-- //some method to check if product is in cart or not
+          cart.some( (p) => p.id === item.id) ?
+                  (<button onClick={removeFromCart}>
+                    Remove Item
+                  </button>) :
+                  (<button onClick={addToCart}>
+                    Add to  Cart
+                  </button>)
+
+        } -->
+<!-- </div> --> -->
